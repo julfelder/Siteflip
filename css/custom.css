@@ -23,10 +23,12 @@
 
 #header {
   height:40px;
+  background-color:white;
 }
 
 .navbar {
   margin-bottom:0px;
+  background-color:;
 }
 
 #article{
