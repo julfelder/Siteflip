@@ -32,3 +32,8 @@
 #article{
   margin-top:10px;
 }
+
+.navbar-brand{
+  padding:0;
+}
+}
